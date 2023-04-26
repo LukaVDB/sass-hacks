@@ -18,7 +18,7 @@ body {
 }
 
 h1 {
-    color: hsl(284, 100%, 65%);
+    color: hsl(165, 39%, 41%);
     font-size: 2rem;
     font-family: var(--font-family-secondary);
     line-height: 1;
@@ -59,7 +59,7 @@ p {
     font-size: 14px;
     font-family: var(--font-family-primary);
     font-weight: var(--font-weight-bold);
-    color: hsl(308, 67%, 56%);
+    color: hsl(155, 61%, 43%);
 }
 
 .button{

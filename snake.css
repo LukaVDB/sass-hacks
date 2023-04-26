@@ -22,42 +22,42 @@ canvas {
   position: absolute;
 }
 :root {
-  --apple: blue;
-  --snake: purple;
+  --apple: rgb(50, 158, 73);
+  --snake: rgb(42, 208, 178);
 }
 #p1 {
-  color:purple;
+  color:rgb(53, 202, 162);
   position:relative;
   padding-left: 50px;
   padding-top: 25px;
 
 }
 #p2 {
-  color:purple;
+  color:rgb(38, 168, 190);
   position:relative;
   padding-left: 50px;
   padding-top: 25px;
 }
 #score {
-  color:purple;
+  color:rgb(21, 46, 39);
   position:relative;
   padding-left: 50px;
   padding-top: 25px;
 }
 #high {
-  color:purple;
+  color:rgb(143, 167, 38);
   position:relative;
   padding-left: 50px;
   padding-top: 25px;
 }
 #btn_stop {
-  color:purple;
+  color:rgb(48, 172, 56);
   position:absolute;
   bottom: 50px;
   right: 43%;
 }
 #end_msg {
-  color:purple;
+  color:rgb(74, 170, 189);
   position:relative;
   padding-left: 50px;
   padding-top: 20px;
@@ -65,7 +65,7 @@ canvas {
 button {
   border-radius: 20px;
   background-color: white;
-  color: purple;
+  color: rgb(38, 185, 106);
   font-size: 12px;
   font-weight: bold;
   padding: 12px 45px;

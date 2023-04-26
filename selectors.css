@@ -89,7 +89,7 @@ li:nth-last-child(2n){
 
 /*will only be chosen since it is by itself/isolated*/
 span:only-child{
-    background:violet;
+    background:rgb(57, 176, 111);
 }
 
 /*first of the type will be chosen inside of selector*/
