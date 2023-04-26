@@ -1,25 +1,25 @@
 *{
-    background: red;
+    background: rgb(73, 136, 63);
 }
 
 div{
-    background: red;
+    background: rgb(69, 196, 67);
 }
 
 li{
-    background: red;
+    background: rgb(44, 167, 46);
 }
 
 span{
-    background: red;
+    background: rgb(50, 148, 47);
 }
 
 .class{
-    background: red;
+    background: rgb(63, 139, 77);
 }
 
 #id{
-    background: blue;
+    background: rgb(65, 149, 167);
 }
 
 /*only div with .class will have green*/

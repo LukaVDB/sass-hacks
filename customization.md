@@ -12,16 +12,19 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
-              <img src="images/profile.png" alt="profile">
+              <source srcset="images/profile.jpeg" media="(min-width: 600px)">
+              <img src="images/profile.jpeg" alt="profile">
             </picture>
             <div class="content">
               <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+                <h1>Luka Van Den Boomen</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                Highschool student who has been coding for 1 year.
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <p>
+              Enjoys to watch soccer.
+              </p>
+              <a href="https://github.com/LukaVDB/" class="button"></a>
             </div>
           </article>
         </main>
