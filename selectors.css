@@ -33,7 +33,7 @@ div.class{
 /*will show up before or after the div*/
 div.red::before{
     content: 'Before',
-    background: blueviolet;
+    background: blue;
 }
 
 
